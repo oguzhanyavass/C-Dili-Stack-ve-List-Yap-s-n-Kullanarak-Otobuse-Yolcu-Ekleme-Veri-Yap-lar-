@@ -1,1 +1,1 @@
-# C-Dili-Stack-ve-List-Yap-s-n-Kullanarak-Otobuse-Yolcu-Ekleme-Veri-Yap-lar-
+# C-Dili-Stack-ve-List-Yapisin-Kullanarak-Otobuse-Yolcu-Ekleme-Veri-Yapilari
